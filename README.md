@@ -1,7 +1,7 @@
-# FinalAutomationProject
+# <p align="center"> FinalAutomationProject  </p>
 
 
 
-<p align="center"><b> Build A Box! </p></b>
+<b> Build A Box! </b>
 
 
