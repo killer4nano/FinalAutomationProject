@@ -2,6 +2,6 @@
 
 
 
-<p align="center><b> Build A Box! </b></p>
+<p align="center><b> Build A Box! </p></b>
 
 
