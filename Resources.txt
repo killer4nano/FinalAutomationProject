@@ -1,1 +1,3 @@
 https://pypi.org/project/pycomm/ - Communication with PLC using python.
+https://www.mesta-automation.com/how-to-communicate-to-an-allen-bradley-plc-with-c-and-libplctag-ethernet-ip-library/
+https://www.youtube.com/watch?v=s7sMrVXfaE4
